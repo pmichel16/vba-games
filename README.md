@@ -1,2 +1,2 @@
 # vba-games
-Some mini-games I have made in VBA. Run them as a Macro in an Excel sheet.
+Some mini-games I have made in VBA. Import each module into the sheet to run. 
