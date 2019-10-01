@@ -1,2 +1,2 @@
 # vba-games
-Some mini-games I have made in VBA. Import each module into the sheet to run. 
+Some mini-games I have made in VBA. The macro-enabled workbook contains the forms and modules in the same folder.
